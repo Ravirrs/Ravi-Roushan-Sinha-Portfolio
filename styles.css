@@ -5,6 +5,45 @@ body{
 
     font-family: 'montserrat',
     sans-serif;
-
-    
+/* 
+image {
+    max-width: 100%;
+}    */
 }
+.header {
+   background-color: #701a75;
+   margin-top:auto;
+}
+
+/* .link link-white{
+    color: white;
+}
+.link link-active{
+    color:aqua;
+} */
+.link {
+    color: white !important; 
+    background-color: transparent; 
+    text-decoration: none;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+  
+/* .inline non-bullets{background color: #701a75;} */
+/* .github-link {
+     background-color: #701a75;
+     (--primary-color);
+     border-radius 0.5rem;
+     color: white;
+} */
+
+
+
+.footer {
+    background-color: #701a75;
+    : rgb(255, 255, 255);;
+    margin-top:auto;
+ }
